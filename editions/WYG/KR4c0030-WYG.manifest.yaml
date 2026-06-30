@@ -1,0 +1,170 @@
+canonical_identifier: bkk:krp/KR4c0030/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4c0030/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 宗玄集
+  date: '2015-08-24 23:46:49.314199'
+  source:
+    repository: kanripo
+    path: KR4c0030
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4c0030_000-WYG.yaml, hash: 'sha256:653e07667245c5576cb18da60002eaf2c170667fab9b8cfb7faf9b785fbd26e4'}
+  - {seq: 1, filename: KR4c0030_001-WYG.yaml, hash: 'sha256:f5d96735ddd0131c674ed188db3a16914e278a3bf4a43227cbee74ba864e2d73'}
+  - {seq: 2, filename: KR4c0030_002-WYG.yaml, hash: 'sha256:efc906c1c8e8f11ec0f8396fbe5f4aaa3d17e3e5bfff3b751a06c68841ef4363'}
+  - {seq: 3, filename: KR4c0030_003-WYG.yaml, hash: 'sha256:a5803e50d3b19c23a058434b9d89da55972918f3641f1011e74161287af59da5'}
+  - {seq: 4, filename: KR4c0030_004-WYG.yaml, hash: 'sha256:4931ee32d0dc36b6a5ab1297509ed511da6dafa585f91f2c74808835e66d366f'}
+  - {seq: 5, filename: KR4c0030_005-WYG.yaml, hash: 'sha256:1e02c679ff568be6e6535d7dcfcf62c1fced04a29bd09541d05e7abc1290e381'}
+  - {seq: 6, filename: KR4c0030_006-WYG.yaml, hash: 'sha256:4b3d32e4e4d998854fd380acf07cd9f16f835e573cceb96c0ec2a6f10450356c'}
+  - {seq: 7, filename: KR4c0030_007-WYG.yaml, hash: 'sha256:015d1d2784d0d1ad3f885c6949bbfe9d5f520de4245b545f670bf8467c2e71fa'}
+  - {seq: 8, filename: KR4c0030_008-WYG.yaml, hash: 'sha256:2ce6e4ff51550c520784509ad929683b329eaa09526c2a56b0fd5080c97b931a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4c0030_000-WYG.markers.yaml, hash: 'sha256:ba8f9063207989ab257303d68b9df47ba0662a5c32988c6d0c8979d38d52b913'}
+  - {seq: 1, role: markers, filename: assets/KR4c0030_001-WYG.markers.yaml, hash: 'sha256:c21ac9f06b9121ace92bfbb20c2a0e8052c17acdd8f26a78a64eae3893521a2c'}
+  - {seq: 2, role: markers, filename: assets/KR4c0030_002-WYG.markers.yaml, hash: 'sha256:78f590bd665e08d0d053c0d3d3ff955ac02b8d74a59667335d5f090eccecbfc8'}
+  - {seq: 3, role: markers, filename: assets/KR4c0030_003-WYG.markers.yaml, hash: 'sha256:74c1acbaab4a6c4784c4699e64800da4eb086242b7d66b491a6a6a6b9a75f727'}
+  - {seq: 4, role: markers, filename: assets/KR4c0030_004-WYG.markers.yaml, hash: 'sha256:fc81578badef2cbaf6bb7873e53ea2df3acd4f0f0142003a3238136810c24720'}
+  - {seq: 5, role: markers, filename: assets/KR4c0030_005-WYG.markers.yaml, hash: 'sha256:8a082571fa5bc8ed44c4056b2cfbe157d3b57d2e448a0e122cec43c1b88c2adc'}
+  - {seq: 6, role: markers, filename: assets/KR4c0030_006-WYG.markers.yaml, hash: 'sha256:95411bf74cf3442b5b5b746783dbaaf7c4f1e8b684e87a083598abfbed14c7d5'}
+  - {seq: 7, role: markers, filename: assets/KR4c0030_007-WYG.markers.yaml, hash: 'sha256:3b5283621abcc1b135f6fa55af35a4959e00b106a651852bcfbebac05797b733'}
+  - {seq: 8, role: markers, filename: assets/KR4c0030_008-WYG.markers.yaml, hash: 'sha256:ac1538be94485d2f5fc5995e9701d16077a1484a6155aa27caecb04020c21f98'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4c0030_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 670
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4c0030_WYG_000-4a
+    span:
+    - body
+    - 670
+    - 1423
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4c0030_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2579
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4c0030_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 11269
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4c0030_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 3543
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4c0030_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 7551
+  label: 别錄玄綱論
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4c0030_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 680
+  label: 别録南統大君内丹九章經
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4c0030_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 380
+  label: 吴尊師傳
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4c0030_WYG_006-3a
+    span:
+    - body
+    - 380
+    - 760
+  label: 吴尊師傳
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4c0030_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 175
+  label: 宗玄集原序
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4c0030_WYG_007-2a
+    span:
+    - body
+    - 175
+    - 350
+  label: 宗玄集原序
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4c0030_WYG_008-1a
+    span:
+    - body
+    - 0
+    - 44
+  label: 宗玄集跋
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4c0030_WYG_008-2a
+    span:
+    - body
+    - 44
+    - 88
+  label: 宗玄集跋
+  type: section
+  level: 1
+hash: sha256:e776cefd36d70c40ddf835611c6f302fc012ae3d6073b20b6f05022ebab874b2

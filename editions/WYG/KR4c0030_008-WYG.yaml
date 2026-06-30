@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR4c0030/WYG/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宗𤣥集跋吴宗𤣥集文獻通考云有十巻今本三巻收入道藏中宣城沈方鄴録以見詒世未有别本也戊申春記宗𤣥集跋吴宗𤣥集文獻通考云有十巻今本三巻收入道藏中宣城沈方鄴録以見詒世未有别本也戊申春記
+  hash: sha256:799c671657a4216ebc6b9c8b644ffbdf89fd3df9b8d18c164716a3f6f597d4f0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4c0030_WYG_008-1a}
+  - {type: page-break, offset: 44, content: '', id: KR4c0030_WYG_008-2a}
+metadata:
+  title: 宗玄集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:46:49.314199'
+  juan_title: 宗玄集跋
+  source:
+    repository: kanripo
+    path: KR4c0030/KR4c0030_008.txt
+hash: sha256:2ce6e4ff51550c520784509ad929683b329eaa09526c2a56b0fd5080c97b931a

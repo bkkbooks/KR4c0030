@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR4c0030/WYG/v1/markers/8
+seq: 8
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4c0030_WYG_008-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4c0030_WYG_008-1a01}
+  - {type: 'kr:newline', offset: 4, content: '
+
+      ', id: KR4c0030_WYG_008-bkkkrnewl2}
+  - {type: line-break, offset: 4, content: '', id: KR4c0030_WYG_008-1a02}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR4c0030_WYG_008-bkkkrnewl3}
+  - {type: line-break, offset: 25, content: '', id: KR4c0030_WYG_008-1a03}
+  - {type: 'kr:newline', offset: 44, content: '
+
+      ', id: KR4c0030_WYG_008-bkkkrnewl4}
+  - {type: 'kr:org-directive', offset: 44, content: '#+PROPERTY: JUAN 宗玄集跋', id: KR4c0030_WYG_008-bkkkrorgd1}
+  - {type: 'kr:newline', offset: 44, content: '
+
+      ', id: KR4c0030_WYG_008-bkkkrnewl5}
+  - {type: 'kr:newline', offset: 44, content: '
+
+      ', id: KR4c0030_WYG_008-bkkkrnewl6}
+  - {type: line-break, offset: 44, content: '', id: KR4c0030_WYG_008-2a01}
+  - {type: 'kr:newline', offset: 48, content: '
+
+      ', id: KR4c0030_WYG_008-bkkkrnewl7}
+  - {type: line-break, offset: 48, content: '', id: KR4c0030_WYG_008-2a02}
+  - {type: 'kr:newline', offset: 69, content: '
+
+      ', id: KR4c0030_WYG_008-bkkkrnewl8}
+  - {type: line-break, offset: 69, content: '', id: KR4c0030_WYG_008-2a03}
+  - {type: 'kr:newline', offset: 88, content: '
+
+      ', id: KR4c0030_WYG_008-bkkkrnewl9}
+  back: []
+hash: sha256:ac1538be94485d2f5fc5995e9701d16077a1484a6155aa27caecb04020c21f98

@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR4c0030/bkk/v1/markers/8
+seq: 8
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4c0030_krp_008-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4c0030_WYG_008-1a01}
+  - {type: 'kr:newline', offset: 4, content: '
+
+      ', id: KR4c0030_krp_008-bkkkrnewl2}
+  - {type: line-break, offset: 4, content: '', id: KR4c0030_WYG_008-1a02}
+  - {type: substitution, offset: 4, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3154}}
+  - {type: substitution, offset: 15, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
+  - {type: substitution, offset: 19, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR4c0030_krp_008-bkkkrnewl3}
+  - {type: line-break, offset: 25, content: '', id: KR4c0030_WYG_008-1a03}
+  - {type: 'kr:newline', offset: 44, content: '
+
+      ', id: KR4c0030_krp_008-bkkkrnewl4}
+  - {type: 'kr:org-directive', offset: 44, content: '#+PROPERTY: JUAN 宗玄集跋', id: KR4c0030_krp_008-bkkkrorgd1}
+  - {type: 'kr:newline', offset: 44, content: '
+
+      ', id: KR4c0030_krp_008-bkkkrnewl5}
+  - {type: 'kr:newline', offset: 44, content: '
+
+      ', id: KR4c0030_krp_008-bkkkrnewl6}
+  - {type: line-break, offset: 44, content: '', id: KR4c0030_WYG_008-2a01}
+  - {type: 'kr:newline', offset: 48, content: '
+
+      ', id: KR4c0030_krp_008-bkkkrnewl7}
+  - {type: line-break, offset: 48, content: '', id: KR4c0030_WYG_008-2a02}
+  - {type: substitution, offset: 48, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3154}}
+  - {type: substitution, offset: 59, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
+  - {type: substitution, offset: 63, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
+  - {type: 'kr:newline', offset: 69, content: '
+
+      ', id: KR4c0030_krp_008-bkkkrnewl8}
+  - {type: line-break, offset: 69, content: '', id: KR4c0030_WYG_008-2a03}
+  - {type: 'kr:newline', offset: 88, content: '
+
+      ', id: KR4c0030_krp_008-bkkkrnewl9}
+  back: []
+hash: sha256:5602fc2a8f2e94553c694797d68fe821be32af52be800b4d7b8e1e212f7399de
