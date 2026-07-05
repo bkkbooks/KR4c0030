@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 宗𤣥集跋吳宗𤣥集文獻通考云有十卷今本三卷收入道藏中宣城沈方鄴録以見詒世未有别本也戊申春記宗𤣥集跋吳宗𤣥集文獻通考云有十卷今本三卷收入道藏中宣城沈方鄴録以見詒世未有别本也戊申春記
-  hash: sha256:02ffcabe01225f3d5198d58354b0d965e9ecd81c91d2d56d42faf006f9519204
+  text: 宗𤣥集跋吴宗𤣥集文獻通考云有十巻今本三巻收入道藏中宣城沈方鄴録以見詒世未有别本也戊申春記宗𤣥集跋吴宗𤣥集文獻通考云有十巻今本三巻收入道藏中宣城沈方鄴録以見詒世未有别本也戊申春記
+  hash: sha256:799c671657a4216ebc6b9c8b644ffbdf89fd3df9b8d18c164716a3f6f597d4f0
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4c0030_WYG_008-1a}
   - {type: page-break, offset: 44, content: '', id: KR4c0030_WYG_008-2a}
@@ -19,4 +19,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4c0030/KR4c0030_008.txt
-hash: sha256:e32fd5c03d562ae6da94e057a991e5874ecac95f5065e211aa357c1163c75f89
+hash: sha256:c8335c5bf0e12c24b548f3efbd6fb83bef83e5a97a2846156b9e6b1c14500775
